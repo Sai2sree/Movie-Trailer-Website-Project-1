@@ -3,6 +3,12 @@
 
 
 class Movie():
+    '''
+    This class 'Movie' stores the details of movie as mentioned below.
+    The title of the movie is stored in 'title'.
+    The url for poster of the movie is stored in 'poster_image_url'.
+    The url for the trailer of the movie is stored in 'trailer_youtube_url'
+    '''
     def __init__(self, movie_title, poster_image, trailer_youtube):
         self.title = movie_title
         self.poster_image_url = poster_image

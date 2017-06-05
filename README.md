@@ -6,7 +6,7 @@ This contains a server-side code to store a list of movies, including box art im
 
 - entertainment_center.py has the code to create multiple instances of that Python Class to represent my favorite movies and code to group all the instances together in a list.
 
-- fresh_tomatoes.py has code to generate a static web page allowing visitors to browse their movies and watch the trailers. 
+- fresh_tomatoes.py has the code to generate a static web page allowing visitors to browse their movies and watch the trailers. 
 
 # To run the code
 - Install [Python](https://docs.python.org/3/).

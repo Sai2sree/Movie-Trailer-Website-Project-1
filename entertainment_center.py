@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# Create multiple instances of that Python Class to represent the movies
+# Create multiple instances of the Python Class to represent the movies
 
 The_Godfather = media.Movie("The Godfather",
                             "https://s-media-cache-ak0.pinimg.com/736x/a1/"
